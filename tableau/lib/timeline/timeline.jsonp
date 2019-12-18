@@ -1,0 +1,157 @@
+storyjs_jsonp_data = {
+
+    "timeline":
+    {
+        "date":
+[
+
+            {
+                "startDate":"2007,9,21",
+                "endDate":"2012,7,10",
+                "headline":"University years",
+                "text":"<p>BSc. Architectural Engineering</br>Modern Sciences and Arts University, Egypt</p>",
+                "asset":
+                {
+                    "media":"images/resume-images/MSA.png",
+                    "credit":"",
+                    "caption":""
+                }
+            },
+            {
+                "startDate":"2008,9,21",
+                "endDate":"2012,7,10",
+                "headline":"University years",
+                "text":"<p>BSc. Architectural Engineering, 2:1</br>University of Greenwich, London</p>",
+                "asset":
+                {
+                    "media":"images/resume-images/greenwich.png",
+                    "credit":"",
+                    "caption":""
+                }
+            },
+      {
+                "startDate":"2012,10,26",
+                "endDate":"2012,12,19",
+                "headline":"First Work Experience",
+                "text":"Internship Construction Manager Trainee </br> Alghanim International General Trading and Contracting",
+                "asset":
+                {
+                    "media":"images/resume-images/alghanim.png",
+                    "credit":"",
+                    "caption":""
+                }
+            },
+
+      {
+                "startDate":"2013,3,04",
+                "endDate":"2013,4,19",
+                "headline":"Architect Designer Internship",
+                "text":"I worked with basic 3D designs of buildings.",
+                "asset":
+                {
+                    "media":"images/resume-images/ALLarch.jpg",
+                    "credit":"",
+                    "caption":""
+                }
+            },
+      {
+                "startDate":"2013,10,5",
+                "endDate":"2014,10,10",
+                "headline":"Master's Degree",
+                "text":"<p>MSc. Adaptive Architecture and Computation </br> University College London, U. of London</p>",
+                "asset":
+                {
+                    "media":"images/resume-images/ucl.png",
+                    "credit":"",
+                    "caption":""
+                }
+            },
+      {
+                "startDate":"2014,10,10",
+                "endDate":"2014,12,10",
+                "headline":"Assistant Helper",
+                "text":"Helped students with technical issues in Processing programming",
+                "asset":
+                {
+                    "media":"images/resume-images/aac.jpg",
+                    "credit":"",
+                    "caption":""
+                }
+            },
+
+      {
+                "startDate":"2014,10,10",
+                "headline":"Processing/Java Tutor",
+                "text":"<p>Tutoring students in Processing and Java</p>",
+                "asset":
+                {
+                    "media":"images/resume-images/processing.png",
+                    "credit":"",
+                    "caption":""
+                }
+            },
+      {
+                "startDate":"2014,12,10",
+                "headline":"Advanced C# Course",
+                "text":"<p>Certificate in Advanced C# Programming</br>London Academy of IT</p>",
+                "asset":
+                {
+                    "media":"images/resume-images/laoit.png",
+                    "credit":"",
+                    "caption":""
+                }
+            },
+      {
+                "startDate":"2014,10,10",
+                "endDate":"2014,12,19",
+                "headline":"Java Course",
+                "text":"<p>Certificate in Object-oriented programming with Java.</br>City University London</p>",
+                "asset":
+                {
+                    "media":"images/resume-images/java.png",
+                    "credit":"",
+                    "caption":""
+                }
+            },
+      {
+                "startDate":"2015,1,23",
+                "endDate":"2015,3,27",
+                "headline":"Unity3D Game Development Course",
+                "text":"",
+                "asset":
+                {
+                    "media":"images/resume-images/unity3d.png",
+                    "credit":"",
+                    "caption":""
+                }
+            },
+      {
+                "startDate":"2015,2,24",
+                "endDate":"2015,10,05",
+
+                "headline":"Started JustIT Training Course",
+                "text":"",
+                "asset":
+                {
+                    "media":"images/resume-images/justit.png",
+                    "credit":"",
+                    "caption":""
+                }
+            },
+
+            {
+                      "startDate":"2015,10,05",
+
+                      "headline":"BIM Technician (Unity Developer)",
+                      "text":"<p>Unity and C# development for interactive visualisations</p>",
+                      "asset":
+                      {
+                          "media":"images/resume-images/skanska.png",
+                          "credit":"",
+                          "caption":""
+                      }
+                  },
+
+        ]
+    }
+}

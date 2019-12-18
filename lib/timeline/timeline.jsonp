@@ -1,0 +1,158 @@
+storyjs_jsonp_data = {
+
+    "timeline":
+    {
+        "date":
+[      
+        {
+                "startDate":"2019,08",
+                "endDate":"2019,12",
+                "headline":"Carreer Break",
+                "text":"<p> Traveling and Surfing</br>",
+                "asset":
+                {
+                    "media":"images/resume-images/carca_kook_ltd.png",
+                    "credit":"",
+                    "caption":""
+                }
+            },
+        {
+                "startDate":"2019,11",
+                "endDate":"2019,11",
+                "headline":"International Business Developer",
+                "text":"<p> To Be Srl </br> Web Summit 2019 </p>",
+                "asset":
+                {
+                    "media":"images/resume-images/Web_summit_logo.jpg",
+                    "credit":"",
+                    "caption":""
+                }
+            },
+        {
+                "startDate":"2018,05",
+                "endDate":"2019,07",
+                "headline":"Innovation Manager",
+                "text":"<p> Resolver </p>",
+                "asset":
+                {
+                    "media":"images/resume-images/Resolver_logo.png",
+                    "credit":"",
+                    "caption":""
+                }
+            },
+        {
+                "startDate":"2017,03",
+                "endDate":"2018,03",
+                "headline":"Junior Consultant",
+                "text":"<p> Digital Intelligence </br> Steer Davies Gleave </p>",
+                "asset":
+                {
+                    "media":"images/resume-images/SteerDaviesGleave.png",
+                    "credit":"",
+                    "caption":""
+                }
+            },
+     
+      {
+                "startDate":"2011,09",
+                "endDate":"2014,01",
+                "headline":"Bachelor of Sciences in Human Geography and Urban Planning",
+                "text":"<p>Université Aix Marseille</p>",
+                "asset":
+                {
+                    "media":"images/resume-images/aix.png",
+                    "credit":"",
+                    "caption":""
+                }
+            },
+      {
+                "startDate":"2013,06",
+                "endDate":"2013,08",
+                "headline":"Population Environment Development Laboratory",
+                "text":"Marseille, France </br> Urban Planner Intern",
+                "asset":
+                {
+                    "media":"images/resume-images/lped.png",
+                    "credit":"",
+                    "caption":""
+                }
+            },
+
+      {
+                "startDate":"2014,01",
+                "endDate":"2014,06",
+                "headline":"University of Utrecht",
+                "text":"<p>Semester abroad as part of Urban and regional planning department</p>",
+                "asset":
+                {
+                    "media":"images/resume-images/ultr.png",
+                    "credit":"",
+                    "caption":""
+                }
+            },
+      {
+                "startDate":"2014,09",
+                "endDate":"2015,09",
+                "headline":"Master of Sciences in City Sciences",
+                "text":"<p>Universidad Politecnica de Madrid</p>",
+                "asset":
+                {
+                    "media":"images/resume-images/upm.png",
+                    "credit":"",
+                    "caption":""
+                }
+            },
+      {
+                "startDate":"2015,06",
+                "headline":"International Conference on City Sciences ",
+                "text":"Shanghai, China </br> Student representative",
+                "asset":
+                {
+                    "media":"images/resume-images/conference.png",
+                    "credit":"",
+                    "caption":""
+                }
+            },
+      {
+                "startDate":"2015,08",
+                "headline":"Asia Europe Foundation ",
+                "text":"Pune, India  </br> French Delegate",
+                "asset":
+                {
+                    "media":"images/resume-images/aseu.jpg",
+                    "credit":"",
+                    "caption":""
+                }
+            },
+      {
+                "startDate":"2016,05",
+                "endDate":"2016,07",
+
+                "headline":"Research Assistant",
+                "text":"<p>The Bartlett Center for Advanced Spatial Analysis</br> University College London, U. of London</p>",
+                "asset":
+                {
+                    "media":"images/resume-images/ucl.png",
+                    "credit":"",
+                    "caption":""
+                }
+            },
+
+      {
+                "startDate":"2015,09",
+                "endDate":"2016,09",
+                "headline":"MRes. Spatial Data Science and Visualisation",
+                "text":"<p>The Bartlett Center for Advanced Spatial Analysis</br> University College London, U. of London</p>",
+                "asset":
+                {
+                    "media":"images/resume-images/casa.png",
+                    "credit":"",
+                    "caption":""
+                }
+            },
+
+
+
+        ]
+    }
+}
